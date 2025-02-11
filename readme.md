@@ -38,8 +38,8 @@
 Создаю файл index.js и добавляю в него код:
 
 ```javascript
-alert("Этот код выполнен из внешнего файла!");
-console.log("Сообщение в консоли");
+alert("Привет, мир!");
+console.log("Hello, console!");
 ```
 
 Подключаю файл в `index.html`, добавив в `<head>`
